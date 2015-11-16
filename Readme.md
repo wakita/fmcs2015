@@ -16,3 +16,7 @@
 PDF formats of the slides and other materials will be offered from this GitHub page.
 
 Course notebook is offered via [public Evernote notebook](https://www.evernote.com/pub/kwakita/2015-fmcs-pub).  If you are an Evernote user, please subscribe to this notebook and my notes will automatically imported to yours when you sync.
+
+## How can you reach me?
+
+Questions and comments should be addressed by [creating a **New issue**](https://github.com/wakita/fmcs2015/issues) at the issue tracker of the GitHub site.
