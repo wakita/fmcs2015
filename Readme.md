@@ -1,13 +1,13 @@
 # Fundamentals Series: CS-Part 2 — Software
+
 - Fundamentals of Mathematical and Computing Sciences: Computer Science, Part II
 - Lecturer: Ken Wakita (Associate Professor), W8-W Building, 9th floor, Room 907
-- Contact me using the Web form that you find at the bottom of this page.
 
 ## Agenda & Slides
 
 Date | Content | Materials
 --- | --- | ---
-Nov. 16 | Course Introduction and Overview | [slide](https://github.com/wakita/fmcs2015/blob/master/kw1.pdf), [Buffer overflow example](https://github.com/wakita/fmcs2015/blob/master/1116/)
+Nov. 16 | Course Introduction and Overview | [Slide](https://github.com/wakita/fmcs2015/blob/master/kw1.pdf), [Buffer overflow example](https://github.com/wakita/fmcs2015/blob/master/1116/)
 Nov. 30 | Type System: Why Types Matters? |
 Dec.  7 | Grammar, Semantics, Type Relation |
 Dec. 14 | Mechanical Proof Assistance System (1/2) |
@@ -21,4 +21,4 @@ Course notebook is offered via [public Evernote notebook](https://www.evernote.c
 
 ## How can you reach me?
 
-Questions and comments should be addressed by [creating a **New issue**](https://github.com/wakita/fmcs2015/issues) at the issue tracker of the GitHub site.
+Questions and comments should be addressed by [creating a **New issue**](https://github.com/wakita/fmcs2015/issues) at the issue tracker of the GitHub site.  You need to login at GitHub before creating a new issue.
