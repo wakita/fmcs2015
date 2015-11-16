@@ -5,7 +5,7 @@
 
 ## Agenda & Slides
 
-- Nov. 16: Course Introduction and Overview ([slide](https://github.com/wakita/fmcs2015/blob/master/kw1.pdf), [Buffer overflow example](https://github.com/wakita/fmcs2015/blob/master/1130/))
+- Nov. 16: Course Introduction and Overview ([slide](https://github.com/wakita/fmcs2015/blob/master/kw1.pdf), [Buffer overflow example](https://github.com/wakita/fmcs2015/blob/master/1116/))
 - Nov. 30: Type System: Why Types Matters?
 - Dec. 7: Grammar, Semantics, Type Relation
 - Dec. 14: Mechanical Proof Assistance System (1/2)
