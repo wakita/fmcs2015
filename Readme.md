@@ -10,8 +10,8 @@ Date | Content | Materials
 Nov. 16 | Course Introduction and Overview | [Slide](https://github.com/wakita/fmcs2015/blob/master/kw1.pdf), [Buffer overflow example](https://github.com/wakita/fmcs2015/blob/master/1116/)
 Nov. 30 | Type System: Why Types Matters? | [Slide](https://github.com/wakita/fmcs2015/blob/master/kw23.pdf)
 Dec.  7 | Grammar, Semantics, Type Relation | [Slide](https://github.com/wakita/fmcs2015/blob/master/kw23.pdf)
-Dec. 14 | Mechanical Proof Assistance System (1/2) |
-Dec. 21 | Mechanical Proof Assistance System (2/2) |
+Dec. 14 | Mechanical Proof Assistance System (1/2) | [Slide](https://github.com/wakita/fmcs2015/blob/master/kw4.pdf)
+Dec. 21 | Mechanical Proof Assistance System (2/2) | Demo using `CoqStarter/kw2/kw2.v`
 
 ## Teaching materials
 
